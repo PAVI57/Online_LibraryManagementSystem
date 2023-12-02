@@ -1,3 +1,3 @@
-# librarymanagmentsysteminphp
+# librarymanagementsysteminphp
 
-Import library_managment.sql on database
+Import library.sql on database
